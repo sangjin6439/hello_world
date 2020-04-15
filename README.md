@@ -1,2 +1,1 @@
-# hello_world
-동아리 과제
+print("Hello-World')
